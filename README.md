@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**AldoWijaya27/AldoWijaya27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently study at University of Lampung
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
