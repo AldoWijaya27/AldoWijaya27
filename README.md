@@ -1,6 +1,13 @@
-### Hi there 👋
+# Hi there, I'm Aldo Wijaya (https://aldo-wijaya-portofolio.netlify.app/) 🐍
 
-- 🔭 I’m currently study at University of Lampung
-- 🌱 I’m currently learning Web Development
+## About Me
+- 🌱 I’m currently learning software development.
+- 👯 I’m looking to collaborate on projects related to web development.
+- 📫 How to reach me: aldowijayasept27@gmail.com
 
+## Connect with Me
+- [LinkedIn](https://linkedin.com/in/yourprofile)
+
+## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AldoWijaya27&show_icons=true&theme=transparent)
+
