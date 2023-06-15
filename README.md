@@ -1,4 +1,4 @@
-# Hi there, I'm Aldo Wijaya (https://aldo-wijaya-portofolio.netlify.app/) 🐍
+# Hi there, I'm Aldo Wijaya (https://aldo-wijaya-portofolio.netlify.app/)
 
 ## About Me
 - 🌱 I’m currently learning software development.
