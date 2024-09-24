@@ -1,4 +1,4 @@
-# Hi there, I'm Aldo Wijaya
+# Hi there, I'm Aldo Wijaya ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 <img
 align="center"     
 src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnN6aGU1MHoybHFxNnM0YTE2aHY1bnBmZ3F5ajVwYW95Y3RwNzkyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="Coding GIF" width="100%"/>
