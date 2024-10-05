@@ -35,4 +35,4 @@ src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnN6aGU1MHoybHFxNnM0YTE2aHY1bn
   <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=nextdotjs&logoColor=white" height="30"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/AldoWijaya27/AldoWijaya27/042a0448c1d1332392bb6a35e3e4e2108060872b/only-svg/github-contribution-grid-snake.svg" />
+<!-- <img src="https://raw.githubusercontent.com/AldoWijaya27/AldoWijaya27/042a0448c1d1332392bb6a35e3e4e2108060872b/only-svg/github-contribution-grid-snake.svg" /> -->
